@@ -3,15 +3,11 @@ package com.example.tiptime
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.text.Editable
 import android.view.KeyEvent
 import android.view.View
 import android.view.inputmethod.InputMethodManager
-import android.widget.EditText
-import android.widget.RadioGroup
 import com.example.tiptime.databinding.ActivityMainBinding
 import java.text.NumberFormat
-import kotlin.math.round
 
 /*
 class MainActivity : AppCompatActivity() {
